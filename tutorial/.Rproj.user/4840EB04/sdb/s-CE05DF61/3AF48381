@@ -1,0 +1,17 @@
+{
+    "contents" : "1+1\nwetrqwe\nqwerqwe",
+    "created" : 1425139773064.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2634149288",
+    "id" : "3AF48381",
+    "lastKnownWriteTime" : 1425140080,
+    "path" : "~/Documents/localCodes/R_relatedData/tutorial/first.r",
+    "project_path" : "first.r",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
